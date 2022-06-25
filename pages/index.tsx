@@ -14,6 +14,7 @@ export default function Home() {
       <button onClick={handleClick} className="nextButton">
         Products
       </button>
+      <h1>DOES THIS GET PUSHED TO THE NEW PROJECT??</h1>
       <PricingCardsCopy />
     </div>
   );
